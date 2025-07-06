@@ -12,6 +12,17 @@
 
 ---
 
+### 📬 Entre em contato comigo
+
+<p align="center">
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/📩%20Enviar%20email-red?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/ViinArt"><img src="https://img.shields.io/badge/🔗%20LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://seuportfolio.com"><img src="https://img.shields.io/badge/🌐%20Portfólio-000?style=for-the-badge" /></a>
+</p>
+
+
+---
+
 ### 🧠 Sobre mim
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
@@ -66,3 +77,9 @@
 ### ⚡ Nome "ViinArt"
 
 > ViinArt é a junção de **Vinicius + Arte**, porque **programar também é criar.** 🎨💻
+
+### 🐍 Snake Game - Contribuições animadas
+
+<p align="center">
+  <img src="https://github.com/ViinArt/ViinArt/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
