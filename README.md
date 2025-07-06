@@ -59,9 +59,9 @@
 
 ### 📫 Vamos conversar?
 
-- 💌 Email: **clique aqui** *(viniciusmelo348@gmail.com)*
+- 💌 Email:*(viniciusmelo348@gmail.com)*
 - 💼 LinkedIn: [linkedin.com/in/ViinArt]([https://linkedin.com/in/ViinArt](https://www.linkedin.com/in/vinicius-melo-456531287/))
-- 🌐 Portfólio: *[github]*(https://github.com/viinart/ViinArt)]*
+- 🌐 Portfólio: *[(https://github.com/viinart/ViinArt)]*
 
 ---
 
