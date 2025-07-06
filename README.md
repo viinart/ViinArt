@@ -61,7 +61,7 @@
 
 - 💌 Email: **viniciusmelo348@gmail.com** *(edite aqui com seu e-mail)*
 - 💼 LinkedIn: [linkedin.com/in/ViinArt]([https://linkedin.com/in/ViinArt](https://www.linkedin.com/in/vinicius-melo-456531287/))
-- 🌐 Portfólio: *[[adicione aqui se tiver](https://github.com/viinart/ViinArt)]*
+- 🌐 Portfólio: *[github](https://github.com/viinart/ViinArt)]*
 
 ---
 
