@@ -58,7 +58,9 @@
 
 > A programação é como ser o Homem-Aranha: exige responsabilidade, agilidade e criatividade.
 
-<div style="padding-top:81.633%;position:relative;"><iframe src="https://gifer.com/embed/OHAj" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<p align="center">
+  <img src="https://i.gifer.com/OHAj.gif" width="200" alt="Spider-Man Animated Coding"/>
+</p>
 ---
 
 ### ⚡ Nome "ViinArt"
