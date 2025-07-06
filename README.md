@@ -15,7 +15,7 @@
 ### 📬 Entre em contato comigo
 
 <p align="center">
-  <a href="mailto:viniciusmelo348@gmail.com"><img src="https://img.shields.io/badge/📩%20Enviar%20email-red?style=for-the-badge" /></a>
+  <a href="viniciusmelo348@gmail.com"><img src="https://img.shields.io/badge/📩%20Enviar%20email-red?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/vinicius-melo-456531287"><img src="https://img.shields.io/badge/🔗%20LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/viinart"><img src="https://img.shields.io/badge/🌐%20Portfólio-000?style=for-the-badge" /></a>
 </p>
@@ -59,9 +59,9 @@
 
 ### 📫 Vamos conversar?
 
-- 💌 Email: **viniciusmelo348@gmail.com** *(viniciusmelo348@gmail.com)*
+- 💌 Email: **clique aqui** *(viniciusmelo348@gmail.com)*
 - 💼 LinkedIn: [linkedin.com/in/ViinArt]([https://linkedin.com/in/ViinArt](https://www.linkedin.com/in/vinicius-melo-456531287/))
-- 🌐 Portfólio: *[github](https://github.com/viinart/ViinArt)]*
+- 🌐 Portfólio: *[github]*(https://github.com/viinart/ViinArt)]*
 
 ---
 
