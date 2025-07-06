@@ -60,7 +60,7 @@
 ### 📫 Vamos conversar?
 
 - 💌 Email:*(viniciusmelo348@gmail.com)*
-- 💼 LinkedIn: [linkedin.com/in/ViinArt]([https://linkedin.com/in/ViinArt](https://www.linkedin.com/in/vinicius-melo-456531287/))
+- 💼 LinkedIn: ([https://linkedin.com/in/ViinArt](https://www.linkedin.com/in/vinicius-melo-456531287/))
 - 🌐 Portfólio: *[(https://github.com/viinart/ViinArt)]*
 
 ---
