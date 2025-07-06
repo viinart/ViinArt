@@ -79,9 +79,3 @@
 > ViinArt é a junção de **Vinicius + Arte**, porque **programar também é criar.** 🎨💻
 
 ---
-
-### 🐍 Snake Game – Contribuições animadas
-
-<p align="center">
-  <img src="https://github.com/ViinArt/ViinArt/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
