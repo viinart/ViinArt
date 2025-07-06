@@ -16,7 +16,7 @@
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 - ☕ Java é meu café diário (e minha linguagem favorita)
-- 🌐 Também trabalho com **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL/SQL**
+- 🌐 Também trabalho com **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL/SQL** , **PYTHON**
 - 👀 Sempre aprendendo algo novo
 - 💼 Aberto a **qualquer oportunidade de trabalho**
 - 🕸️ Frase favorita:
@@ -49,8 +49,8 @@
 ### 📫 Vamos conversar?
 
 - 💌 Email: **seuemail@exemplo.com** *(edite aqui com seu e-mail)*
-- 💼 LinkedIn: [linkedin.com/in/ViinArt](https://linkedin.com/in/ViinArt)
-- 🌐 Portfólio: *[adicione aqui se tiver]*
+- 💼 LinkedIn: [linkedin.com/in/ViinArt]([https://linkedin.com/in/ViinArt](https://www.linkedin.com/in/vinicius-melo-456531287/))
+- 🌐 Portfólio: *[[adicione aqui se tiver](https://github.com/viinart/ViinArt)]*
 
 ---
 
@@ -58,10 +58,7 @@
 
 > A programação é como ser o Homem-Aranha: exige responsabilidade, agilidade e criatividade.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Spider-Man Animated Coding"/>
-</p>
-
+<div style="padding-top:81.633%;position:relative;"><iframe src="https://gifer.com/embed/OHAj" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 ---
 
 ### ⚡ Nome "ViinArt"
